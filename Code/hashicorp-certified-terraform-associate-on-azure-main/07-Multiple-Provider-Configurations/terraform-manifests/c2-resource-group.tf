@@ -14,5 +14,6 @@ resource "azurerm_resource_group" "myrg2" {
 
 /*
 Additional Note: 
-provider = <PROVIDER NAME>.<ALIAS NAME>  # This is a Meta-Argument from Resources Section nothing but a Special Argument
+provider = <PROVIDER NAME>.<ALIAS NAME>  # This is a Meta-Argument from Resources Section nothing but a 
+Special Argument
 */
